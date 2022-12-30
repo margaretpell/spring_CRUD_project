@@ -1,1 +1,1 @@
-
+This is a CRUD project using springboot framework. The CRM(customer relationship manager) web application allows you to create, update and delete customers and secures web application using Spring Security for custom authorization and authentication. The CRM_rest and CRUD_springboot_rest files use REST api with full database CRUD allowing you to update, add, get, delete customers/employees. The CRUD_thymeleaf file creates a web UI for employee directory with Thymeleaf and springboot with full CRUD support.
