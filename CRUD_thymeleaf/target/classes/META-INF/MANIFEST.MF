@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: margaretaneous
+Build-Jdk: 17.0.5
+Implementation-Title: thymeleafdemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.margaretpell.springboot
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/CRUD_thymeleaf
+Created-By: Maven Integration for Eclipse
+
