@@ -1,7 +1,0 @@
-127.0.0.1 - - [25/Dec/2022:18:24:14 -0500] "GET / HTTP/1.1" 404 751
-0:0:0:0:0:0:0:1 - - [25/Dec/2022:18:24:15 -0500] "GET /web_customer_tracker/TestDbServlet HTTP/1.1" 200 129
-0:0:0:0:0:0:0:1 - - [25/Dec/2022:18:24:15 -0500] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 783
-0:0:0:0:0:0:0:1 - - [25/Dec/2022:18:24:15 -0500] "GET /favicon.ico HTTP/1.1" 404 762
-0:0:0:0:0:0:0:1 - - [25/Dec/2022:18:24:15 -0500] "GET /apple-touch-icon.png HTTP/1.1" 404 771
-127.0.0.1 - - [25/Dec/2022:20:54:42 -0500] "GET / HTTP/1.1" 404 751
-0:0:0:0:0:0:0:1 - - [25/Dec/2022:20:54:44 -0500] "GET /web_customer_tracker/TestDbServlet HTTP/1.1" 200 129

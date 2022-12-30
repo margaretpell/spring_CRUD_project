@@ -1,5 +1,0 @@
-package springdemo.aspect;
-
-public class CRMLoggingAspect {
-
-}

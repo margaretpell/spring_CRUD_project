@@ -1,9 +1,0 @@
-INDEX VERSION 1.131
-/Users/margaretaneous/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/876540867.index
-/web_customer_registration_security/src/main/java
-/Users/margaretaneous/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/969139285.index
-/spring-security-custom-user-registration-demo/src/main/java
-/Users/margaretaneous/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1306345128.index
-/web_customer_tracker/src
-/Users/margaretaneous/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3778605032.index
-/web_customer_tracker/src

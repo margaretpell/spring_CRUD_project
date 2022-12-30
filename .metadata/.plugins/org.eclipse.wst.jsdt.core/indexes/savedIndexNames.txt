@@ -1,3 +1,0 @@
-INDEX VERSION 1.4+/Users/margaretaneous/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-3554028699.index
-3517735856.index
