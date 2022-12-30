@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Wed Dec 28 20:56:24 EST 2022
+org.eclipse.jst.jee.server\:/binary\:/Users/margaretaneous/eclipse-workspace/web_customer_tracker/WebContent/WEB-INF/lib/spring-web-5.3.9-sources.jar=WEB-INF/lib/spring-web-5.3.9-sources.jar
+org.eclipse.jst.jee.server\:/binary\:/Users/margaretaneous/eclipse-workspace/web_customer_tracker/WebContent/WEB-INF/lib/spring-web-5.3.9.jar=WEB-INF/lib/spring-web-5.3.9.jar
+org.eclipse.jst.jee.server\:/binary\:/Users/margaretaneous/.m2/repository/org/springframework/spring-web/5.2.5.RELEASE/spring-web-5.2.5.RELEASE.jar=WEB-INF/lib/spring-web-5.2.5.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:/Users/margaretaneous/.m2/repository/org/springframework/spring-web/5.0.17.RELEASE/spring-web-5.0.17.RELEASE.jar=WEB-INF/lib/spring-web-5.0.17.RELEASE.jar

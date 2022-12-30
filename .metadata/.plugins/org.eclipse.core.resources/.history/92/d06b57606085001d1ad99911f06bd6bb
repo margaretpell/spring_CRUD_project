@@ -1,0 +1,5 @@
+package springdemo.service;
+
+public interface CustomerService {
+
+}
